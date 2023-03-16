@@ -1,0 +1,37 @@
+1.how youtube stores large files in its early days
+=> 
+When YouTube first launched in 2005, it faced the challenge of storing and delivering large video files to users over the internet, which was still in its early stages of development.
+
+To overcome this challenge, YouTube used a combination of techniques to compress and store video files efficiently.
+
+Firstly, the videos were compressed using a codec called H.264, which was designed to provide high-quality video at low bitrates. This meant that the files were smaller in size without compromising on quality.
+
+Secondly, YouTube used a content delivery network (CDN) to distribute the videos to users. CDNs work by caching content in multiple locations around the world, allowing users to access the content from a server that is physically closer to them. This reduces the time and distance required for data to travel, resulting in faster and more reliable video playback.
+
+Finally, YouTube also used a technique called adaptive streaming, which allowed the video quality to adapt to the user's internet connection speed. This meant that users with slower connections would receive a lower quality video that would play smoothly, while users with faster connections would receive a higher quality video that would take advantage of their connection speed.
+
+Overall, these techniques allowed YouTube to efficiently store and deliver large video files to users in its early days, laying the foundation for its eventual success as the world's largest video sharing platform.
+
+
+2.what is a flash video
+=> 
+A flash video is a type of video file format that was popularized by Adobe Flash Player, a multimedia software platform that was widely used to display video, animation, and other interactive content on the web.
+
+Flash video files typically have the file extension .flv or .f4v and are designed to be played within a web browser or other software that supports Adobe Flash Player.
+
+Flash videos are known for their small file size, which made them ideal for streaming over the internet, particularly in the early days of online video when internet connection speeds were slower.
+
+However, the use of Adobe Flash Player has declined in recent years due to security vulnerabilities and compatibility issues with newer web technologies. As a result, many web browsers no longer support Flash, and many websites have migrated to other video file formats such as HTML5, which is supported by most modern web browsers.
+
+3.why youtube converts uploaded video to flash videos
+=>
+YouTube used to convert uploaded videos to Flash videos (FLV or F4V file format) because Adobe Flash Player was the most widely used platform for delivering video content over the internet. Flash videos were lightweight and easily streamable, which made them ideal for the early days of online video when internet connection speeds were slower.
+
+Additionally, Flash videos supported interactivity, such as clickable buttons, which allowed for a more engaging user experience. This was important for YouTube, which was focused on creating a social platform for sharing and discussing videos.
+
+However, since 2015, YouTube has been transitioning away from Flash videos in favor of HTML5, which is a newer and more versatile web technology that can handle video playback and other multimedia tasks without requiring a separate plugin like Flash. The switch to HTML5 has improved video quality and loading speeds, reduced the amount of processing power required for video playback, and eliminated the security vulnerabilities associated with Flash.
+
+Nowadays, YouTube no longer converts uploaded videos to Flash videos by default. Instead, it converts them to formats such as MP4 or WebM, which are more widely supported by modern web browsers and devices.
+
+
+
